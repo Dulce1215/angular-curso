@@ -13,7 +13,7 @@ import { ListadoComponent } from "./listado/ListadoComponent";
         ListadoComponent
     ],
     imports: [
-        CommonModule
+       CommonModule
     ]
 
 
